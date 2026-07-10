@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Eduardo González Estrada 👋
 
-<!--
-**EduGlzEst/EduGlzEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 Sobre mí
+* 🎓 Economista por la Universidad Iberoamericana.
+* 💡 Apasionado por la intersección entre la **Ciencia de Datos**, los **Mercados Financieros** y la **Política Monetaria**.
+* 🔍 Actualmente busco aportar valor analítico en roles de **Data Analytics & Science** dentro del sector bancario y financiero.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Herramientas
+* **Lenguajes:** Python (Pandas, Matplotlib, Seaborn), SQL, R.
+* **Visualización:** Power BI, QGIS.
+* **Otras herramientas:** Excel (Avanzado), LaTeX, EViews.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Certificaciones Destacadas
+* Corporate Finance Fundamentals - **CFI**
+* Bloomberg Market Concepts (Equities, Fixed Income, Currencies, Economics) - **Bloomberg LP**
+* Data Analysis with R - **IBM**
+
+### 📫 Conecta conmigo
+* 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-gonz%C3%A1lez-estrada-8022142ba/)
+* 📧 eduardo.gonzalez.est@gmail.com
