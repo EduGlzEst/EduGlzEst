@@ -6,7 +6,7 @@
 * 🔍 Actualmente busco aportar valor analítico en roles de **Data Analytics & Science** dentro del sector bancario y financiero.
 
 ### 🛠️ Tech Stack & Herramientas
-* **Lenguajes:** Python (Pandas, Matplotlib, Seaborn), SQL, R.
+* **Lenguajes:** Python (Pandas, Matplotlib, Seaborn), SQL, R, Excel.
 * **Visualización:** Power BI, QGIS.
 * **Otras herramientas:** Excel (Avanzado), LaTeX, EViews.
 
